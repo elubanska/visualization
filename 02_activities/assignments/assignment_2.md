@@ -18,15 +18,12 @@
     <img width="613" height="390" alt="bad" src="https://github.com/user-attachments/assets/a1c07ae8-2267-489b-93e7-246491d28d49" />
 
 
-
-
-
-
+    This visualization is bad because it uses a numbered list to show a distribution of time, which is appears ineffective. It fails to show how often different completion times occur, where the values are concentrated, or if there are any outliers.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      To improve it, I suggest to use a histogram to see the frequency of different completion times.
 
 
 
