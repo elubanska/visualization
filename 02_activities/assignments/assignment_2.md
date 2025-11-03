@@ -10,7 +10,7 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
     
-    Not good example:  ```
+    - Not good example:  
     
     Link to visual:
     https://public.tableau.com/app/profile/aurora.malinauskaite/viz/HROnboardingTracker/OnboardingTracker
@@ -20,7 +20,6 @@
 
     This visualization is bad because it uses a numbered list to show a distribution of time, which is appears ineffective. It fails to show how often different completion times occur, where the values are concentrated, or if there are any outliers.
 
-      ```
     - How could this data visualization have been improved?  
       ```
       To improve it, I suggest to use a histogram to see the frequency of different completion times.
