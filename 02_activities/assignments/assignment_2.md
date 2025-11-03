@@ -10,7 +10,7 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
     
-     - Not good example:  
+     -- Not a good example:  
     
     Link to visual:
     https://public.tableau.com/app/profile/aurora.malinauskaite/viz/HROnboardingTracker/OnboardingTracker
@@ -21,21 +21,23 @@
     This visualization is bad because it uses a numbered list to show a distribution of time, which is appears ineffective. It fails to show how often different completion times occur, where the values are concentrated, or if there are any outliers.
 
     - How could this data visualization have been improved?  
-      ```
-      To improve it, I suggest to use a histogram to see the frequency of different completion times.
+      To improve it, I suggest using a histogram to see the frequency of different completion times.
 
 
-     - Good example:
+     -- Good example:
 
      Link to visual:
      https://public.tableau.com/app/profile/gandes.goldestan/viz/MerchandiseSalesDashboard_17490129386740/Overview
 
-     I like this visual due to clear hierarchy and ranking: It presents the data in a simple, sorted list, making it immediately obvious which products are the top performers. In addition to that, it uses text effectively. For a table with a few key items, a text table is very efficient. It allows for precise comparison of values without any visual distortion, enabling the user to easily see the exact difference between products.
+    <img width="298" height="377" alt="good" src="https://github.com/user-attachments/assets/6c417108-30c5-4a6c-995f-34d89b479781" />
+
+
+     I like this visual due to its clear hierarchy and ranking: It presents the data in a simple, sorted list, making it immediately obvious which products are the top performers. In addition to that, it uses text effectively. For a table with a few key items, a text table is very efficient. It allows for precise comparison of values without any visual distortion, enabling the user to easily see the exact difference between products.
 
 
 
       
-      ```
+      
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
