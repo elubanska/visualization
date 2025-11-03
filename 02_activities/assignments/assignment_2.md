@@ -15,7 +15,8 @@
     Link to visual:
     https://public.tableau.com/app/profile/aurora.malinauskaite/viz/HROnboardingTracker/OnboardingTracker
 
-    !(bad.png)
+    <img width="613" height="390" alt="bad" src="https://github.com/user-attachments/assets/a1c07ae8-2267-489b-93e7-246491d28d49" />
+
 
 
 
