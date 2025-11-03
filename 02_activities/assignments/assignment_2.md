@@ -9,9 +9,13 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
-test
+    
+    Not good example:  ```
+    
+    Link to visual:
+    https://public.tableau.com/app/profile/aurora.malinauskaite/viz/HROnboardingTracker/OnboardingTracker
+
+
 
 
 
