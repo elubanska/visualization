@@ -10,7 +10,7 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
     
-     -- Not a good example:  
+         - Not a good example:  
     
     Link to visual:
     https://public.tableau.com/app/profile/aurora.malinauskaite/viz/HROnboardingTracker/OnboardingTracker
@@ -24,7 +24,7 @@
       To improve it, I suggest using a histogram to see the frequency of different completion times.
 
 
-     -- Good example:
+         - Good example:
 
      Link to visual:
      https://public.tableau.com/app/profile/gandes.goldestan/viz/MerchandiseSalesDashboard_17490129386740/Overview
